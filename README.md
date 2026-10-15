@@ -21,3 +21,5 @@ The API returns HTTP 400 if any input is missing or non-numeric.
 - Docker Compose
 - Jenkins
 - AWS EC2
+
+Jenkins automation test: verifying automatic builds through the GitHub webhook.
