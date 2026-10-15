@@ -1,0 +1,7 @@
+services:
+  api:
+    image: harramkhan04/lr-api:v1
+    container_name: lr-api
+    ports:
+      - "5000:5000"
+    restart: always
