@@ -2,7 +2,7 @@ import random
 from flask import Flask, request, jsonify
 
 SEED = 14
-REG_NO = "FA23-BDS-014"
+REG_NO = "FA23-BDS-014" #harram 
 
 random.seed(SEED)
 a1 = random.uniform(-5, 5)
